@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+select{
+    height: 35px;
+    margin: 10px;
+}
+.dropdown{
+    display: flex;
+    justify-content: center;
+}
+.res{
+    display: flex;
+    justify-content: center;
+}
+.highlight{
+    opacity: 50%;
+}
+.bold{
+    font-weight: 800;
+}
+p{
+    font-size: larger;
+}
