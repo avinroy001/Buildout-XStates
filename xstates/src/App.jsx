@@ -47,7 +47,7 @@ function App() {
     .catch((err)=>{
       console.log(err);
     })
-    console.log(selectedState);
+    // console.log(selectedState);
   }
   },[selectedCountry,selectedState]);
   // console.log(city);
