@@ -96,7 +96,7 @@ function App() {
       </div>
       <div className='res'>
       {selectedCity&&(<p className='result'>You selected <span className='bold'>{selectedCity},</span>
-      <span className='highlight'>{" "} {selectedState},{selectedCountry}</span>
+      <span className='highlight'>{" "}{selectedState}, {selectedCountry}</span>
       </p>)}
       </div>
     </div>
